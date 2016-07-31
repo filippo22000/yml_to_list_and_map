@@ -1,0 +1,15 @@
+
+server:
+  port: 8091
+
+service:
+  ff4j:
+    url: "http://localhost:8090/ff4j/"
+    mappings:
+      -
+        value: "some.value0"
+        key: "some.key0"
+      -
+        value: "some.value1"
+        key: "some.key1"
+
