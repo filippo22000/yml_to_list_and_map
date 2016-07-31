@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demo_xml_to_json.iml" filepath="$PROJECT_DIR$/demo_xml_to_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yml_to_list_and_map.iml" filepath="$PROJECT_DIR$/yml_to_list_and_map.iml" />
     </modules>
   </component>
 </project>

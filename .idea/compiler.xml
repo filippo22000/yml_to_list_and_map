@@ -24,11 +24,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="demo_xml_to_json" />
+        <module name="yml_to_list_and_map" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo_xml_to_json" target="1.8" />
+      <module name="yml_to_list_and_map" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

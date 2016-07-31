@@ -68,3 +68,13 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.gitignore
+.idea/
+.mvn/
+arch/
+demo_xml_to_json.iml
+mvnw
+mvnw.cmd
+pom.xml
+src/
+yml_to_list_and_map.iml
